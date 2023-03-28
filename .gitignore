@@ -1,2 +1,5 @@
 scan_processed/
 uploaded_scan/
+sql_app.db
+sql_appp.db
+__pycache__/
